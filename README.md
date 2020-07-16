@@ -4,10 +4,12 @@
 **tejaswini22199/tejaswini22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- <strong>Programmer by choice</strong> :computer: | Machine Learning Enthusiast | Workholic <br></br>
+- <strong>Programmer by choice</strong> :computer: | Machine Learning Enthusiast | Workholic. 
+- Btech @Nitw'21
 - 🔭 I’m currently working on Django and python
 - 🌱 I’m currently learning Machine Learning and Web development.
-- Btech @NITW'21
+- Look into my profile in coding sites<br>
+.<br>.<br>.<br>
   <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/">
   <img src="https://user-images.githubusercontent.com/43006347/87627849-4dce5b00-c74d-11ea-998b-4272226d645f.png">
   </a>
