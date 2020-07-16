@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Django and python
 - 🌱 I’m currently learning Machine Learning and Web development.
-- :aquarius:
+- Btech @NITW'21
 - <strong>Programmer by choice</strong> :computer: <br></br>
   <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/">
   <img src="https://user-images.githubusercontent.com/43006347/87627849-4dce5b00-c74d-11ea-998b-4272226d645f.png">
@@ -21,12 +21,13 @@ Here are some ideas to get you started:-->
   <a href="https://www.hackerrank.com/tejaswini22199?hr_r=1">
   <img width=38px height=35px src="https://user-images.githubusercontent.com/43006347/87630026-d0f1b000-c751-11ea-8624-56e480adb359.jpeg">
   </a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/">Linkedin</a>
   
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
