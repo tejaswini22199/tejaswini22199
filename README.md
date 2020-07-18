@@ -32,6 +32,13 @@ Here are some ideas to get you started:-->
 - Frameworks I'm using
     - <strong>Django </strong><img width=60px height=36px src="https://user-images.githubusercontent.com/43006347/87701579-da146880-c7b5-11ea-9996-46106048d8b3.jpeg">
     - <strong>Bootstrap</strong>"<img width=60px height=40px src="https://user-images.githubusercontent.com/43006347/87807172-95e89d00-c875-11ea-8e5c-092fd5747226.jpeg">
+- Certifications and Courses:
+    - Data Base Management System from NPTEL 
+- Coding Hackathons
+    - <a href="https://drive.google.com/file/d/1yJ6plQM6RxJXiFMvISzIv6yEmDoy7XiV/view?usp=sharing">Secured 56th rank in the CodeWars-4.0 organised by D2C with NITWarangal</a>
+    - <a href="https://drive.google.com/file/d/1COqWYlID7K74UM4PACugoBTx4pQe8I5L/view?usp=sharing">Secured 87th rank in the VinHack organised by D2C with VITVellore</a>
+    - <a href="https://drive.google.com/file/d/1VdapvGtsFfvtVKFaCN3j2UJEgN7KzzFB/view?usp=sharing">Secured 65th rank in the Hack-e-codifier organised by D2C with NITHamirpur</a>
+<!--
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
