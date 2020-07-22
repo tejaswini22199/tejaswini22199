@@ -38,6 +38,7 @@ Here are some ideas to get you started:-->
     - <a href="https://drive.google.com/file/d/1yJ6plQM6RxJXiFMvISzIv6yEmDoy7XiV/view?usp=sharing">Secured 56th rank in the CodeWars-4.0 organised by D2C with NITWarangal</a>
     - <a href="https://drive.google.com/file/d/1COqWYlID7K74UM4PACugoBTx4pQe8I5L/view?usp=sharing">Secured 87th rank in the VinHack organised by D2C with VITVellore</a>
     - <a href="https://drive.google.com/file/d/1VdapvGtsFfvtVKFaCN3j2UJEgN7KzzFB/view?usp=sharing">Secured 65th rank in the Hack-e-codifier organised by D2C with NITHamirpur</a>
+- MyResume:<a href="https://drive.google.com/file/d/148-2uvu9oNbEDMN4y-Blve1RwwpT_qkC/view?usp=sharing">Tejaswini</a>
 <!--
 <!--
 - 👯 I’m looking to collaborate on ...
