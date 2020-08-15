@@ -23,7 +23,6 @@ Here are some ideas to get you started:-->
   <a href="https://www.hackerrank.com/tejaswini22199?hr_r=1">
   <img width=38px height=35px src="https://user-images.githubusercontent.com/43006347/87630026-d0f1b000-c751-11ea-8624-56e480adb359.jpeg">
   </a>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/">Linkedin</a>
 -  Programming Languages that I'm using
     - <strong>C++ </strong><img width=60px height=36px src="https://user-images.githubusercontent.com/43006347/87701379-8144d000-c7b5-11ea-8e89-3331fdb9fa70.png">
     - <strong>Python </strong><img width=60px height=36px src="https://user-images.githubusercontent.com/43006347/87700690-5d34bf00-c7b4-11ea-8bf6-8454a54246ed.jpg">
