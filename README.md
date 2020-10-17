@@ -7,6 +7,7 @@ Here are some ideas to get you started:-->
 - <strong>Programmer by choice</strong> :computer: | Machine Learning Enthusiast | Workaholic |Learner. 
 - Interested in Software Development
 - Btech @Nitw'21
+- [![tejaswini22199's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tejaswini22199)
 <!--
 <!--
 - 👯 I’m looking to collaborate on ...
