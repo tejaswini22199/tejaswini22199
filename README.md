@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini22199&show_icons=true&theme=vision-friendly-dark&hide=stars,issues" alt="PowerCoder | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini22199&show_icons=true&theme=vision-friendly-dark&hide=stars" alt="PowerCoder | Stats" />
 
 </details>
 
