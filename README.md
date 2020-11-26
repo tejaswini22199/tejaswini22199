@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - <strong>Programmer</strong> :computer: | Machine Learning Enthusiast | Workaholic | Learner. 
 - Interested in Software Development
 - Btech @Nitw'21
- <h1>My blogs</h1>
+### My blogs
  <a href="https://dev.to/tejaswini22199">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="tejaswini22199's DEV Profile" height="50" width="100">
  </a>
