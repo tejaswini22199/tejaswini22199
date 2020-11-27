@@ -4,7 +4,7 @@
 **tejaswini22199/tejaswini22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- <strong>Programmer</strong> :computer: | Machine Learning Enthusiast | Workaholic | Learner. 
+- <strong>Programmer</strong> :computer: | Web Developer | Workaholic | Learner. 
 - Interested in Software Development
 - Open Source Contributor
 -  👯 I’m looking to collaborate on projects related to React and Java Script
