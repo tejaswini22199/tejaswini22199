@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini22199&show_icons=true&theme=vision-friendly-dark&hide=stars" alt="PowerCoder | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini22199&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini22199&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
 </div>
