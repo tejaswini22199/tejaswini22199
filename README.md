@@ -13,10 +13,10 @@ Here are some ideas to get you started:-->
 - Btech @Nitw'21
 ### My blogs
  <a href="https://dev.to/tejaswini22199">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="tejaswini22199's DEV Profile" height="50" width="100">
+  Dev
  </a>
  <a href="https://medium.com/@powercoder1">
- <img src="https://cdn-images-1.medium.com/max/800/1*uLuWzCXfq2rt1t_TkuLB8A.png" height="50" width="100">
+ Medium
  </a>
 
 <details>
