@@ -31,7 +31,8 @@ Here are some ideas to get you started:-->
 </details>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tejaswini22199.tejaswini22199)
-[my portfolio](https://tejaswinivakkalagaddi.netlify.app/)
+
+[My portfolio](https://tejaswinivakkalagaddi.netlify.app/)
 
 
 
