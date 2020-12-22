@@ -4,6 +4,11 @@
 **tejaswini22199/tejaswini22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+ -  Tejaswini is a final year undergraduate student at National Institute of Technology, Warangal.
+    My skills:
+    C++,Data Structures and Algorithms, OOPS,DBMS,OS, Java script, HTML, CSS.I love to solve challenging problems.
+    I like to connect with people and do projects related to Web Development but not limited to it.
+    I'm currently looking for Software Development Engineer roles.(Both Internship and Full time Roles)
 - <strong>Programmer</strong> :computer: | Web Developer | Workaholic | Learner. 
 - Interested in Software Development
 - Open Source Contributor
@@ -11,7 +16,8 @@ Here are some ideas to get you started:-->
 - If you are participating in a hackathon and need a front-end-dev I can help you out with my skills.
 - 🤔 I’m looking for help with KnowledgeShare Website
 [Link](https://github.com/tejaswini22199/KnowledgeShare)
-- Btech @Nitw'21
+
+Feel free to reach me by Gmail-tejaswini22199@gmail.com
 ### My blogs
  <a href="https://dev.to/tejaswini22199">
   Dev
