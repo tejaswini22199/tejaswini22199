@@ -34,6 +34,29 @@ Feel free to reach me by Gmail-tejaswini22199@gmail.com
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini22199&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaswini22199&theme=vision-friendly-dark)](https://github.com/tejaswini22199)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=tejaswini22199&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/tejaswini22199)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tejaswini22199.tejaswini22199)
