@@ -14,8 +14,8 @@ Here are some ideas to get you started:-->
 - Open Source Contributor
 -  👯 I’m looking to collaborate on projects related to React and Java Script.
 - If you are participating in a hackathon and need a front-end-dev I can help you out with my skills.
-- 🤔 I’m looking for help with KnowledgeShare Website
-[Link](https://github.com/tejaswini22199/KnowledgeShare)
+- 🤔 I’m looking for help with Devprofile 
+[Link](https://github.com/tejaswini22199/DevFolio)
 
 Feel free to reach me by Gmail-tejaswini22199@gmail.com
 ### My blogs
