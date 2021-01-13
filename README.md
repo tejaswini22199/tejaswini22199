@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **tejaswini22199/tejaswini22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 - 📫 tejaswini22199@gmail.com
 - 🤔 I’m looking for help with [Devprofile](https://github.com/tejaswini22199/DevFolio)
 -  💬 Ask me about NITW
-### I write technical blogs on Medium and Dev
+## I write technical blogs on Medium and Dev
 <a href="https://powercoder1.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:-->
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 
-### Feel free to reach me through
+## Feel free to reach me through
 <a href="https://twitter.com/Tejaswi30533550" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
