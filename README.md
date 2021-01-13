@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - <strong>Programmer</strong> :computer: | Web Developer | Workaholic | Learner. 
 - Interested in Software Development
 - Open Source Contributor
-- 👯 I’m looking to collaborate on projects related to React and Java Script.
+- 👯 I’m looking to collaborate on backend-dev projects .
 - 📫 tejaswini22199@gmail.com
 - 🤔 I’m looking for help with [Devprofile](https://github.com/tejaswini22199/DevFolio)
 -  💬 Ask me about NITW
@@ -55,4 +55,12 @@ Here are some ideas to get you started:-->
 ![](https://visitor-badge.glitch.me/badge?page_id=tejaswini22199.tejaswini22199)
 
 [My portfolio](https://tejaswinivakkalagaddi.netlify.app/)
+
+## MyProjects
+
+https://github.com/tejaswini22199/DevFolio
+
+https://github.com/tejaswini22199/KnowledgeShare
+
+https://github.com/tejaswini22199/E-Commerce-Website
 
