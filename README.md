@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - <strong>Programmer</strong> :computer: | Web Developer | Workaholic | Learner. 
 - Interested in Software Development
 - Open Source Contributor
-- 👯 I’m looking to collaborate on backend-dev projects .
+- 👯 I’m looking to collaborate on projects in back-end domain .
 - 📫 tejaswini22199@gmail.com
 - 🤔 I’m looking for help with [Devprofile](https://github.com/tejaswini22199/DevFolio)
 -  💬 Ask me about NITW
