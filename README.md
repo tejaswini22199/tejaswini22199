@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 - 📫 tejaswini22199@gmail.com
 - 🤔 I’m looking for help with [Devprofile](https://github.com/tejaswini22199/DevFolio)
 -  💬 Ask me about NITW
-## I write technical blogs on Medium and Dev
+## Do check my technical blogs on Medium and Dev
 <a href="https://powercoder1.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
