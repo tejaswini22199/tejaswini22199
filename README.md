@@ -13,7 +13,6 @@ Here are some ideas to get you started:-->
 - Interested in Software Development
 - Open Source Contributor
 - 👯 I’m looking to collaborate on projects in back-end domain and Android Projects.
-- 📫 tejaswini22199@gmail.com
 - 🤔 I’m looking for help with [Devprofile](https://github.com/tejaswini22199/DevFolio)
 - 💬 Ask me about NITW
 ## Do check my technical blogs on Medium and Dev
@@ -31,7 +30,7 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
+<a href="mailto:tejaswini22199@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-%2308090A.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
