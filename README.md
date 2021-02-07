@@ -31,28 +31,6 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini22199&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
- 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini22199&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaswini22199&theme=vision-friendly-dark)](https://github.com/tejaswini22199)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=tejaswini22199&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/tejaswini22199)
-
-</div>
-</details>
-
-[My portfolio]()
 
 ## My Profiles
 <a href="https://tejaswinivakkalagaddi.netlify.app/" target="_blank">
@@ -79,4 +57,23 @@ https://github.com/tejaswini22199/KnowledgeShare
 https://github.com/tejaswini22199/E-Commerce-Website
 
 https://github.com/tejaswini22199/TamuHack
+## Github Stats
+<details>
+<summary>📊 Github Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini22199&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini22199&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
+</div>
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaswini22199&theme=vision-friendly-dark)](https://github.com/tejaswini22199)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=tejaswini22199&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/tejaswini22199)
+
+</div>
+</details>
