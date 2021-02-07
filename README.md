@@ -56,6 +56,15 @@ Here are some ideas to get you started:-->
 
 [My portfolio](https://tejaswinivakkalagaddi.netlify.app/)
 
+## My Profiles
+<a href="https://devpost.com/tejaswini22199?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+<img src=https://img.shields.io/badge/devpost-%2308090A.svg?&style=for-the-badge&logo=devpost&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a> 
+<a href="https://devfolio.co/@tejaswini22199" target="_blank">
+<img src=https://img.shields.io/badge/devfolio-%2308090A.svg?&style=for-the-badge&logo=devfolio&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+
+
 ## MyProjects
 
 https://github.com/tejaswini22199/DevFolio
