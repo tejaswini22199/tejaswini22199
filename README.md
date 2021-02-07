@@ -52,16 +52,17 @@ Here are some ideas to get you started:-->
 </div>
 </details>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tejaswini22199.tejaswini22199)
-
-[My portfolio](https://tejaswinivakkalagaddi.netlify.app/)
+[My portfolio]()
 
 ## My Profiles
+<a href="https://tejaswinivakkalagaddi.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 <a href="https://devpost.com/tejaswini22199?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
-<img src=https://img.shields.io/badge/devpost-%2308090A.svg?&style=for-the-badge&logo=devpost&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a> 
+<img src=https://img.shields.io/badge/devpost-%2308090A.svg?&style=for-the-badge&logo=devpost&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
 <a href="https://devfolio.co/@tejaswini22199" target="_blank">
-<img src=https://img.shields.io/badge/devfolio-%2308090A.svg?&style=for-the-badge&logo=devfolio&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/devfolio-%2308090A.svg?&style=for-the-badge&logo=devfolio&logoColor=white alt=devfolio style="margin-bottom: 5px;" />
 </a>
 
 
