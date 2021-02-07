@@ -12,10 +12,10 @@ Here are some ideas to get you started:-->
 - <strong>Programmer</strong> :computer: | Web Developer | Workaholic | Learner. 
 - Interested in Software Development
 - Open Source Contributor
-- 👯 I’m looking to collaborate on projects in back-end domain .
+- 👯 I’m looking to collaborate on projects in back-end domain and Android Projects.
 - 📫 tejaswini22199@gmail.com
 - 🤔 I’m looking for help with [Devprofile](https://github.com/tejaswini22199/DevFolio)
--  💬 Ask me about NITW
+- 💬 Ask me about NITW
 ## Do check my technical blogs on Medium and Dev
 <a href="https://powercoder1.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
@@ -26,10 +26,13 @@ Here are some ideas to get you started:-->
 
 ## Feel free to reach me through
 <a href="https://twitter.com/Tejaswi30533550" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2308090A.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-%2308090A.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 ## Technology that I'm working with and learning
