@@ -32,6 +32,26 @@ Here are some ideas to get you started:-->
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+## Technology that I'm working with and learning
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/java-%2308090A.svg?&style=for-the-badge&logo=java&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/react-%2308090A.svg?&style=for-the-badge&logo=react&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/c++-%2308090A.svg?&style=for-the-badge&logo=c++&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/express-%2308090A.svg?&style=for-the-badge&logo=express&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/firebase-%2308090A.svg?&style=for-the-badge&logo=firebase&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/android-%2308090A.svg?&style=for-the-badge&logo=android&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
+
 ## My Profiles
 <a href="https://tejaswinivakkalagaddi.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
@@ -42,7 +62,6 @@ Here are some ideas to get you started:-->
 <a href="https://devfolio.co/@tejaswini22199" target="_blank">
 <img src=https://img.shields.io/badge/devfolio-%2308090A.svg?&style=for-the-badge&logo=devfolio&logoColor=white alt=devfolio style="margin-bottom: 5px;" />
 </a>
-
 
 ## MyProjects
 
