@@ -54,6 +54,29 @@ Here are some ideas to get you started:-->
 <img src=https://img.shields.io/badge/android-%2308090A.svg?&style=for-the-badge&logo=android&logoColor=white alt=devpost style="margin-bottom: 5px;" />
 </a>
 
+## My Coding Profiles
+<a href="https://leetcode.com/power_coder0/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%2308090A.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="http://www.hackerearth.com/@powercoder" target="_blank">
+<img src=https://img.shields.io/badge/hackerearth-%2308090A.svg?&style=for-the-badge&logo=hackerearth&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/chosen_one" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%2308090A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.spoj.com/myaccount/" target="_blank">
+<img src=https://img.shields.io/badge/spoj-%2308090A.svg?&style=for-the-badge&logo=spoj&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://codeforces.com/profile/coder_111" target="_blank">
+<img src=https://img.shields.io/badge/codeforces-%2308090A.svg?&style=for-the-badge&logo=codeforces&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.codechef.com/users/teju2213" target="_blank">
+<img src=https://img.shields.io/badge/codechef-%2308090A.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/tejaswinivakkalagaddi/profile" target="_blank">
+<img src=https://img.shields.io/badge/geeksforgeeks-%2308090A.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+
 ## My Profiles
 <a href="https://tejaswinivakkalagaddi.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
