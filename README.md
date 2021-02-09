@@ -39,6 +39,9 @@ Here are some ideas to get you started:-->
 <img src=https://img.shields.io/badge/java-%2308090A.svg?&style=for-the-badge&logo=java&logoColor=white alt=devpost style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
+<img src=https://img.shields.io/badge/javascript-%2308090A.svg?&style=for-the-badge&logo=javascript&logoColor=white alt=devpost style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/react-%2308090A.svg?&style=for-the-badge&logo=react&logoColor=white alt=devpost style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
