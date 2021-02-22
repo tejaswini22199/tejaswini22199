@@ -6,12 +6,9 @@
 Here are some ideas to get you started:-->
  -  I'm a final year undergraduate student at National Institute of Technology, Warangal.
     My skills:
-    C++,Data Structures and Algorithms, OOPS,DBMS,OS, Java script, React HTML, CSS.I love to solve challenging problems.
+    C++,Data Structures and Algorithms, OOPS,DBMS,OS, Java script, React, HTML, CSS.I love to solve challenging problems.
     I like to connect with people and do projects related to Web Development but not limited to it and also explore new things.
     I'm currently looking for Software Development Engineer roles.(Both Internship and Full time Roles)
-- <strong>Programmer</strong> :computer: | Web Developer | Workaholic | Learner. 
-- Interested in Software Development
-- Open Source Contributor
 - 👯 I’m looking to collaborate on projects in back-end domain and Android Projects.
 - 🤔 I’m looking for help with [Womenista](https://github.com/tejaswini22199/Womenista)
 - 💬 Ask me about NITW
