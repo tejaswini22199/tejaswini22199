@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - Interested in Software Development
 - Open Source Contributor
 - 👯 I’m looking to collaborate on projects in back-end domain and Android Projects.
-- 🤔 I’m looking for help with [Devprofile](https://github.com/tejaswini22199/DevFolio)
+- 🤔 I’m looking for help with [Womenista](https://github.com/tejaswini22199/Womenista)
 - 💬 Ask me about NITW
 ## Do check my technical blogs on Medium and Dev
 <a href="https://powercoder1.medium.com/" target="_blank">
