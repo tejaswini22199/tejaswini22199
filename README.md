@@ -103,23 +103,9 @@ https://github.com/tejaswini22199/Tejaswini
 
 https://github.com/tejaswini22199/femmehack_Medicine
 
-https://github.com/tejaswini22199/KnowledgeShare
-
 https://github.com/tejaswini22199/E-Commerce-Website
 
-https://github.com/tejaswini22199/TamuHack
- 
-## MiniProjects
 
-https://github.com/tejaswini22199/TheBreakingBadCast
-
-https://github.com/tejaswini22199/DishSearch
-
-https://github.com/tejaswini22199/rockpaperscissor
-
-https://github.com/tejaswini22199/LyricSearch
-
-https://github.com/tejaswini22199/BookShare
 
 
 ## Github Stats
