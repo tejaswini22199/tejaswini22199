@@ -79,6 +79,9 @@ Here are some ideas to get you started:-->
 <a href="https://tejaswinivakkalagaddi.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
+<a href="https://linktr.ee/Tejaswini_" target="_blank">
+<img src=https://img.shields.io/badge/Linktree-%2308090A.svg?&style=for-the-badge&logo=linktree&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 
 ## MyProjects
 
