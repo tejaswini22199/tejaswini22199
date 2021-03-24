@@ -10,6 +10,9 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on projects in back-end domain and Android Projects.
 - 🤔 I’m looking for help with [Womenista](https://github.com/tejaswini22199/Womenista)
 - 💬 Ask me about NITW
+## Resume
+https://drive.google.com/file/d/1zm8ub-XX-8uimAyvNt15nSWnD_s8L1oM/view?usp=sharing
+
 ## Do check my technical blogs on Medium and Dev
 <a href="https://powercoder1.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
