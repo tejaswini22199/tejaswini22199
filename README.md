@@ -11,7 +11,11 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with [Womenista](https://github.com/tejaswini22199/Womenista)
 - 💬 Ask me about NITW
 ## Resume
-https://drive.google.com/file/d/1zm8ub-XX-8uimAyvNt15nSWnD_s8L1oM/view?usp=sharing
+<a href="https://drive.google.com/file/d/1zm8ub-XX-8uimAyvNt15nSWnD_s8L1oM/view?usp=sharing" target="_blank">
+<img src=https://img.shields.io/badge/resume-%2308090A.svg?&style=for-the-badge&logo=Resume&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+
 
 ## Do check my technical blogs on Medium and Dev
 <a href="https://powercoder1.medium.com/" target="_blank">
