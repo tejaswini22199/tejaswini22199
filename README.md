@@ -17,46 +17,19 @@ Here are some ideas to get you started:-->
 
 
 
-## Do check my technical blogs on Medium and Dev
-<a href="https://powercoder1.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a> 
-<a href="https://dev.to/powercoder" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+## Do check my blogs on Hashnode
+
+<a href="https://tejaswini.hashnode.dev/" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%2308090A.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 
 ## Feel free to reach me through
-<a href="https://twitter.com/Tejaswi30533550" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2308090A.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/tejaswini-vakkalagaddi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2308090A.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:tejaswini22199@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-%2308090A.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-## Technology that I'm working with and learning
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/java-%2308090A.svg?&style=for-the-badge&logo=java&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/javascript-%2308090A.svg?&style=for-the-badge&logo=javascript&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/react-%2308090A.svg?&style=for-the-badge&logo=react&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/c++-%2308090A.svg?&style=for-the-badge&logo=c++&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/express-%2308090A.svg?&style=for-the-badge&logo=express&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/firebase-%2308090A.svg?&style=for-the-badge&logo=firebase&logoColor=white alt=devpost style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/android-%2308090A.svg?&style=for-the-badge&logo=android&logoColor=white alt=devpost style="margin-bottom: 5px;" />
 </a>
 
 ## My Coding Profiles
