@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:-->
  -  Hey! I'm Tejaswini.I'm currently working as an Associate Software Engineer at Cloudera.I graduated from National Institute of Technology, Warangal with majors in Electronics and Communication. I love to work on new ideas and build apps and websites to make the ideas go real. 
+ -  I'm currently working on becoming a better software engineer and learning Spring Boot and Java ecosystem.
  -  I'm always open to new opportunities,projects, collaborations and mock interviews.
 - 💬 Ask me anything about NITW
 
