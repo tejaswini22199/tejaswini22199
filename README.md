@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
  -  Hey! I'm Tejaswini.I'm currently working as an Associate Software Engineer at Cloudera.I graduated from NITW. I love to work on new ideas and build apps and websites to make the ideas go real. 
  -  I'm currently working on becoming a better software engineer and learning Spring Boot and Java ecosystem.
- -  I'm up for a chat on discussing about projects, debugging code,mock interviews:)
+ -  I'm up for a chat on project development, debugging code,mock interviews :)
  -  I'm open to new opportunities,projects, collaborations and mock interviews.
 - 💬 Ask me anything about NITW
 
