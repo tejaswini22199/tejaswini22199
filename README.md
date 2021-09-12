@@ -9,19 +9,16 @@ Here are some ideas to get you started:-->
  -  I'm up for a chat on project development, debugging code,mock interviews :)
  -  I'm open to new opportunities,projects, collaborations and mock interviews.
 - 💬 Ask me anything about NITW
+## Ongoing Projects
 
-## Resume
-<a href="https://drive.google.com/file/d/1II7SAQdj4BVtZyq9erNGt0hHyG8hKOlk/view" target="_blank">
-<img src=https://img.shields.io/badge/resume-%2308090A.svg?&style=for-the-badge&logo=Resume&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+- TodoApplication
+- Frontend - https://github.com/tejaswini22199/todofrontend
+- Backend - https://github.com/tejaswini22199/todoBackend
 
+## Previous Projects
 
-
-## Do check my blogs on Hashnode
-
-<a href="https://tejaswini.hashnode.dev/" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2308090A.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>
+https://github.com/tejaswini22199/DevFolio
+https://github.com/tejaswini22199/Peace-front-end
 
 ## Feel free to reach me through
 
