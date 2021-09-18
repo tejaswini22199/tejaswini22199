@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
  -  I'm up for a chat on project development, debugging code,mock interviews :)
  -  I'm open to new opportunities,projects, collaborations and mock interviews.
  - 💬 Ask me anything about NITW
- - Checkout my blog https://hashnode.com/@tejaswini100
+ - Checkout my blog https://tejaswini.hashnode.dev/
 ## Ongoing Projects
 
 - TodoApplication
