@@ -1,5 +1,7 @@
 # <div align="center"> <strong> Hi There 👋 </strong></div>
 
+![while (output!=goal) continue; (2)](https://user-images.githubusercontent.com/43006347/133931645-9383b63a-c34c-417f-86d9-eb175713f793.png)
+
 <!--
 **tejaswini22199/tejaswini22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
