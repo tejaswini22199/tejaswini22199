@@ -6,7 +6,7 @@
 **tejaswini22199/tejaswini22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
- -  Hey! I'm Tejaswini.I'm currently working as a Software Engineer-1 at Cloudera.I graduated from NITW. I love to work on new ideas and build apps and websites to make the ideas go real. 
+ -  Hey! I'm Tejaswini.I graduated from NITW. I love to work on new ideas and build apps and websites to make the ideas go real. 
  -  I'm currently working on becoming a better software engineer and learning Spring Boot and Java ecosystem.
  -  I'm up for a chat on project development, debugging code,mock interviews :)
  -  I'm open to new opportunities,projects, collaborations and mock interviews.
