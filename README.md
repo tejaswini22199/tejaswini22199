@@ -6,12 +6,18 @@
 **tejaswini22199/tejaswini22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
- -  Hey! I'm Tejaswini.I graduated from NITW. I love to work on new ideas and build apps and websites to make the ideas go real. 
- -  I'm currently working on becoming a better software engineer and learning Spring Boot and Java ecosystem.
- -  I'm up for a chat on project development, debugging code,mock interviews :)
- -  I'm open to new opportunities,projects, collaborations and mock interviews.
- - 💬 Ask me anything about NITW
- - Checkout my blog https://tejaswini.hashnode.dev/
+ - Hey! I'm Tejaswini. I work as a Software Engineer at Cloudera and I graduated from NITW. 
+ - I'm a Software Engineer with 3 years of experience specializing in backend development using Java, Python, Spring Framework, and Spring Boot. At Cloudera, I bring a customer-focused approach, collaborating across teams and mentoring junior colleagues. I'm a curious person, passionate about technology and product development. I actively strive to add value.
+ - I'm up for a chat on project development, debugging code,mock interviews :)
+ - I'm open to new opportunities, projects, collaborations and mock interviews.
+
+Please message me if you believe I'd be a valuable fit for your organization and team!
+
+Let's connect and explore my work:
+GitHub: https://github.com/tejaswini22199
+Blog: https://tejaswini.hashnode.dev/
+Contact: tejaswini.vakkalagaddi@gmail.com
+
 ## Ongoing Projects
 
 - TodoApplication
